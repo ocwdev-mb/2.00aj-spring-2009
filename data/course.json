@@ -1,0 +1,63 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Design"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ],
+    [
+      "Engineering",
+      "Ocean Engineering",
+      "Ocean Exploration"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ]
+  ],
+  "legacy_uid": "e395587c-5855-5f1f-e564-e8afd75899e6",
+  "instructors": {
+    "content": [
+      "a74e684e-a6d5-b89f-e08d-33401dfd9a19"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b6a31a6a-8599-8d66-4ea8-26a766d9032b",
+    "website": "2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009"
+  },
+  "course_title": "Exploring Sea, Space, & Earth: Fundamentals of Engineering Design",
+  "course_description": "Student teams formulate and complete space/earth/ocean exploration-based design projects with weekly milestones. This course introduces core engineering themes, principles, and modes of thinking, and includes exercises in written and oral communication and team building. Specialized learning modules enable teams to focus on the knowledge required to complete their projects, such as machine elements, electronics, design process, visualization and communication. Examples of projects include surveying a lake for millfoil from a remote controlled aircraft, then sending out robotic harvesters to clear the invasive growth; and exploration to search for the evidence of life on a moon of Jupiter, with scientists participating through teleoperation and supervisory control of robots.\n",
+  "department_numbers": [
+    "2",
+    "16"
+  ],
+  "extra_course_numbers": "16.00AJ",
+  "primary_course_number": "2.00AJ",
+  "course_image_thumbnail": {
+    "content": "fdd772ca-7d17-67bb-2ac4-25bd80695e9a",
+    "website": "2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009"
+  },
+  "learning_resource_types": [
+    "Image Gallery",
+    "Lecture Notes",
+    "Projects with Examples",
+    "Design Assignments with Examples",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "57595a06-2e86-428d-8ba8-34238a9987aa",
+  "site_short_id": "2.00aj-spring-2009",
+  "title": "Course Metadata"
+}
